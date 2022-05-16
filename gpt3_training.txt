@@ -1,0 +1,24 @@
+#Modules of approx. 200 residues, found at the N-terminus of GH33 sialidases. Can also be found inserted in the β-propeller of GH33 sialidases. The sialic acid binding function has been demonstrated for the N-terminal CBM40 of Vibrio cholerae sialidase (Moustafa et al. (2004) J Biol Chem 279:40819-26) (PMID: 15226294).
+COEXISTS,GH33
+
+#Modules of approx. 60 residues found in bacterial enzymes. Chitin-binding described in several cases. Distantly related to the CBM12 family.
+RELATES,CBM12
+BINDS,Chitin
+
+#Modules of approx. 150 residues appended to the C-terminus of GH5 and GH26 enzymes. So far found exclusively in Ruminococcal enzymes. The R. flavefaciens module has been shown to bind decorated &beta;-1,4-glucans with a preference for xyloglucan.
+COEXISTS,GH5
+COEXISTS,GH26
+BINDS,&beta;-1,4-glucans
+BINDS,xyloglucan
+
+#Modules of approx. 60 residues attached to a few GH81 enzymes but present in other proteins. Binding to &beta;-1,3-glucan demonstrated for Schizosaccharomyces pombe 972h- endo-1,3-&beta;-glucanase Eng1 [Martin-Quadrado et al., Mol. Microbiol. (2008) 69:188-200 PMID:18466295]
+COEXISTS,GH81
+BINDS,&beta;-1,3-glucan
+
+#Modules of approx. 100 residues and which are found in a large number of bacterial enzymes. The cellulose-binding function has been demonstrated in many cases. Several of these modules have been shown to also bind chitin or xylan.
+BINDS,cellulose
+BINDS,Chitin
+BINDS,xylan
+
+#Modules of approx. 50 residues. The cellulose-binding function has been demonstrated in one case.
+BINDS,cellulose

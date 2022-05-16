@@ -1,0 +1,651 @@
+name,cellulose
+"Bacteroides cellulosilyticus",2
+"Bacteroides cellulosilyticus WH2",0
+"Polaribacter sp. KT25b",2
+"Winogradskyella sp. HaHa_3_26",2
+"Winogradskyella sp. PAMC22761",2
+"Bacteroides cellulosilyticus DSM 14838",1
+"Bacteroides eggerthii DSM 20697",2
+"Bacteroides intestinalis DSM 17393",2
+"Bacteroides sp. CBA7301",2
+"Bacteroides sp. M10",2
+"Bacteroides xylanisolvens",2
+"Bacteroides xylanisolvens XB1A",0
+"Belliella baltica DSM 15883",0
+"Chryseobacterium sp. PCH239",2
+"Chryseobacterium sp. StRB126",2
+"Chryseobacterium sp. Y16C",2
+"Dysgonomonadaceae bacterium zrk40",2
+"Echinicola sp. SCS 3-6",2
+"Flavobacterium sp. CLA17",2
+"Paludibacter propionicigenes WB4",0
+"Prevotella bryantii B14",2
+"Prevotella ruminicola",2
+"Prevotella ruminicola 23",0
+"Prevotella sp. E1-9",2
+"Prevotella sp. E1-a",2
+"Prevotella sp. E13-1",2
+"Prevotella sp. E13-3",2
+"Prevotella sp. E15-14",2
+"Prevotella sp. E2-25",2
+"Prevotella sp. E2-28",2
+"Sphingobacterium sp. B29",2
+"Arachidicoccus sp. B3-10",2
+"Hwangdonia sp. GSB9",2
+"Mariniflexile sp. TRM1-10",2
+"Aquiflexum balticum DSM 16537",2
+"Chitinophaga pinensis DSM 2588",0
+"Chitinophaga sp. MD30",2
+"Chitinophaga sp. MD30B",2
+"Dyadobacter fermentans DSM 18053",0
+"Dyadobacter sp. LJ419",2
+"Fibrella aestuarina BUZ 2",2
+"Fibrella sp. ES10-3-2-2",2
+"Flammeovirga sp. MY04",2
+"Flammeovirgaceae bacterium 311",2
+"Flavobacteriaceae bacterium UJ101",2
+"Flavobacterium sp.",2
+"Haliscomenobacter hydrossis DSM 1100",2
+"Mucilaginibacter sp. 14171R-50",2
+"Mucilaginibacter sp. 21P",2
+"Mucilaginibacter sp. F39-2",2
+"Mucilaginibacter sp. SMC90",2
+"Myroides odoratus",2
+"Niastella koreensis GR20-10",2
+"Olivibacter sp. LS-1",2
+"Olivibacter sp. SDN3",2
+"Ornithobacterium rhinotracheale DSM 15997",2
+"Ornithobacterium rhinotracheale ORT-UMN 88",2
+"Pedobacter sp. G11",2
+"Pedobacter sp. KBS0701",2
+"Phocaeicola salanitronis DSM 18170",2
+"Pontibacter actiniarum DSM 19842",2
+"Pontibacter sp. SGAir0037",2
+"Rhodothermaceae bacterium RA",2
+"Rhodothermus marinus",2
+"Rhodothermus marinus DSM 4252",2
+"Rhodothermus marinus SG0.5JP17-172",2
+"Rufibacter sp. DG15C",2
+"Salinibacter ruber DSM 13855",2
+"Salinibacter ruber M8",2
+"Sphingobacterium sp. 21",2
+"Spirosoma linguale DSM 74",2
+"Spirosoma sp. CJU-R4",2
+"Spirosoma sp. KCTC 42546",2
+"Spirosoma sp. KCTC 72228",2
+"Spirosoma sp. KUDC1026",2
+"Spirosoma sp. RHs26",2
+"Antarcticibacterium sp. 1MA-6-2",2
+"Arachidicoccus sp. BS20",2
+"Bacteroides ovatus ATCC 8483",2
+"Bacteroides ovatus V975",2
+"Bacteroides thetaiotaomicron",2
+"Bacteroides thetaiotaomicron VPI-5482",2
+"Cellulophaga algicola DSM 14237",0
+"Cellulophaga baltica 18",0
+"Cellulophaga baltica NN016038",0
+"Cellulophaga lytica DSM 7489",0
+"Cellulophaga sp. HaHa_2_1",2
+"Cellulophaga sp. HaHa_2_95",2
+"Chitinophaga sp. XS-30",2
+"Cyclobacterium marinum DSM 745",0
+"Cytophaga hutchinsonii ATCC 33406",2
+"Echinicola vietnamensis DSM 17526",0
+"Emticicia oligotrophica DSM 17448",2
+"Ferruginibacter sp. KIS38-8",2
+"Flavobacteriaceae bacterium 10Alg115",2
+"Flavobacterium johnsoniae",0
+"Flavobacterium johnsoniae UW101",0
+"Flavobacterium sp. F-70",2
+"Flavobacterium sp. KBS0721",2
+"Flavobacterium sp. MDT1-60",2
+"Gramella sp. GC03-9",2
+"Hymenobacter sp. 5317J-9",2
+"Hymenobacter sp. 5414T-23",2
+"Hymenobacter sp. PAMC 26554",2
+"Hymenobacter sp. S2-20-2",2
+"Hymenobacter sp. TS19",2
+"Hymenobacter swuensis DY53",2
+"Lacibacter sp. S13-6-6",2
+"Leadbetterella byssophila DSM 17132",0
+"Lutibacter sp. A64",2
+"Lutibacter sp. A80",2
+"Pedobacter heparinus",2
+"Pedobacter heparinus DSM 2366",2
+"Pedobacter sp. D749",2
+"Pedobacter sp. SW-16",2
+"Polaribacter sp. G4M1",2
+"Polaribacter sp. Q13",2
+"Prevotella intermedia 17",2
+"Prevotella intermedia ATCC 25611 = DSM 20706",2
+"Prevotella nigrescens F0103",2
+"Pseudopedobacter saltans DSM 12145",2
+"Runella slithyformis DSM 19594",2
+"Runella sp. SP2",2
+"Salegentibacter sp. T436",2
+"Sinomicrobium sp. HD2P242",2
+"Sphingobacterium sp. DR205",2
+"Sphingobacterium sp. PM2-P1-29",2
+"Sphingobacterium sp. TN19",2
+"Sphingobacterium sp. UDSM-2020",2
+"Spirosoma sp. KNUC1025",2
+"Zunongwangia profunda SM-A87",0
+"Zunongwangia sp. SCSIO 43204",2
+"Aequorivita sp. F7",2
+"Aequorivita sp. H23M31",2
+"Aequorivita sublithincola DSM 14238",0
+"Algoriphagus sp. NBT04N3",2
+"Alistipes finegoldii DSM 17242",2
+"Alistipes shahii WAL 8301",2
+"Alistipes sp. dk3624",2
+"Aquimarina sp. AD1",2
+"Aquimarina sp. AD10",2
+"Aquimarina sp. BL5",2
+"Aquimarina sp. TRL1",2
+"Aquirufa sp. 9H-EGSE",2
+"Arachidicoccus sp. 5GH13-10",2
+"Bacteroidales bacterium CF",2
+"Bacteroides caccae",2
+"Bacteroides caccae ATCC 43185",2
+"Bacteroides caccae CL03T12C61",2
+"Bacteroides fragilis",2
+"Bacteroides fragilis 638R",2
+"Bacteroides fragilis CL03T12C07",2
+"Bacteroides fragilis NCTC 9343",2
+"Bacteroides fragilis YCH46",2
+"Bacteroides helcogenes P 36-108",2
+"Bacteroides sp. A1C1",2
+"Bacteroides sp. CACC 737",2
+"Bacteroides sp. HF-162",2
+"Bacteroides sp. KGMB07931",2
+"Bacteroides sp. KGMB10229",2
+"Bacteroides sp. PHL 2737",2
+"Bacteroides sp. ZJ-18",2
+"Bacteroides uniformis CL03T12C37",2
+"Bacteroidetes bacterium UKL13-3",2
+"Barnesiella viscericola DSM 18177",2
+"Bernardetia litoralis DSM 6794",2
+"Blattabacterium cuenoti BPAA",2
+"Blattabacterium cuenoti BPAY",2
+"Blattabacterium cuenoti STAT",2
+"Blattabacterium punctulatus",2
+"Blattabacterium punctulatus CPU2",2
+"Blattabacterium sp. (Blatta orientalis) str. Tarazona",2
+"Blattabacterium sp. (Cryptocercus punctulatus) str. Cpu",2
+"Blattabacterium sp. (Mastotermes darwiniensis) str. MADAR",2
+"Blattabacterium sp. (Nauphoeta cinerea)",2
+"Blattabacterium sp. (Periplaneta americana) str. BPLAN",2
+"Blattabacterium sp. DPU",2
+"Candidatus Amoebophilus asiaticus 5a2",0
+"Candidatus Fluviicola riflensis",2
+"Capnocytophaga canimorsus Cc5",2
+"Capnocytophaga ochracea DSM 7271",2
+"Capnocytophaga sp. ChDC OS43",2
+"Capnocytophaga sp. FDAARGOS_737",2
+"Capnocytophaga sp. H2931",2
+"Capnocytophaga sp. H4358",2
+"Cardinium endosymbiont cEper1 of Encarsia pergandiella",2
+"Cellulophaga sp. HaHaR_3_176",2
+"Chryseobacterium sp. 3008163",2
+"Chryseobacterium sp. ADR-1",2
+"Chryseobacterium sp. C-17",2
+"Chryseobacterium sp. D764",2
+"Chryseobacterium sp. DH-B6",2
+"Chryseobacterium sp. G0162",2
+"Chryseobacterium sp. G0186",2
+"Chryseobacterium sp. G0201",2
+"Chryseobacterium sp. IHB B 17019",2
+"Chryseobacterium sp. LJ668",2
+"Chryseobacterium sp. MEBOG06",2
+"Chryseobacterium sp. MEBOG07",2
+"Chryseobacterium sp. SNU WT5",2
+"Chryseobacterium sp. SNU WT7",2
+"Chryseobacterium sp. T16E-39",2
+"Chryseobacterium sp. ZHDP1",2
+"Croceibacter atlanticus HTCC2559",0
+"Crocinitomix sp. GM2_3_6_6",2
+"Cytophagales bacterium TFI 002",2
+"Dokdonia donghaensis DSW-1",2
+"Dokdonia sp. 4H-3-7-5",2
+"Dokdonia sp. Dokd-P16",2
+"Dokdonia sp. MED134",2
+"Duncaniella sp. B8",2
+"Duncaniella sp. C9",2
+"Dysgonomonas sp. HDW5A",2
+"Dysgonomonas sp. HDW5B",2
+"Elizabethkingia anophelis Ag1",2
+"Elizabethkingia anophelis FMS-007",2
+"Elizabethkingia anophelis NUHP1",2
+"Elizabethkingia anophelis R26",2
+"Elizabethkingia sp. 2-6",2
+"Flagellimonas sp. CMM7",2
+"Flagellimonas sp. HMM57",2
+"Flavihumibacter sp. IMCC34837",2
+"Flavihumibacter sp. IMCC34838",2
+"Flavobacteriaceae bacterium AU392",2
+"Flavobacteriaceae bacterium GSB9",2
+"Flavobacteriaceae bacterium MAR_2010_188",2
+"Flavobacteriaceae bacterium MT3330",2
+"Flavobacterium branchiophilum FL-15",0
+"Flavobacterium columnare ATCC 49512",0
+"Flavobacterium indicum GPTSA100-9 = DSM 17447",2
+"Flavobacterium psychrophilum FPG101",0
+"Flavobacterium psychrophilum FPG3",0
+"Flavobacterium psychrophilum JIP02/86",0
+"Flavobacterium sp. 140616W15",2
+"Flavobacterium sp. CECT 9288",2
+"Flavobacterium sp. CHNK8",2
+"Flavobacterium sp. CS20",2
+"Flavobacterium sp. F-29",2
+"Flavobacterium sp. F-323",2
+"Flavobacterium sp. F-340",2
+"Flavobacterium sp. GENT11",2
+"Flavobacterium sp. GENT5",2
+"Flavobacterium sp. HJ-32-4",2
+"Flavobacterium sp. KK2020170",2
+"Flavobacterium sp. KSM-R2A25",2
+"Flavobacterium sp. KSM-R2A30",2
+"Flavobacterium sp. M31R6",2
+"Flavobacterium sp. SHINM13",2
+"Flavobacterium sp. Sr18",2
+"Flavobacterium sp. WSW3-B6",2
+"Flavobacterium sp. xlx-214",2
+"Fluviicola taffensis DSM 16823",2
+"Formosa agariphila KMM 3901",0
+"Formosa sp. Hel1_31_208",2
+"Formosa sp. Hel1_33_131",0
+"Formosa sp. Hel3_A1_48",1
+"Fulvivirga sp. SS9-22",2
+"Fulvivirga sp. SW1-E11",2
+"Fulvivirga sp. W9P-11",2
+"Galbibacter sp. BG1",2
+"Gillisia sp. Hel1_33_143",2
+"Gilvibacter sp. SZ-19",2
+"Gramella flava JLT2011",2
+"Gramella forsetii KT0803",0
+"Gramella sp. MAR_2010_102",2
+"Gramella sp. MAR_2010_147",2
+"Gramella sp. MT6",2
+"Hymenobacter sp. 5116S-27",2
+"Hymenobacter sp. 5116S-3",2
+"Hymenobacter sp. 5420S-77",2
+"Hymenobacter sp. 5516J-16",2
+"Hymenobacter sp. APR13",2
+"Hymenobacter sp. BRD128",2
+"Hymenobacter sp. BRD67",2
+"Hymenobacter sp. DG25A",2
+"Hymenobacter sp. DG25B",2
+"Hymenobacter sp. HDW8",2
+"Hymenobacter sp. NBH84",2
+"Hymenobacter sp. PAMC 26628",2
+"Kordia sp. SMS9",2
+"Lacinutrix sp. 5H-3-7-4",1
+"Lacinutrix sp. Bg11-31",2
+"Lacinutrix sp. WUR7",2
+"Maribacter sp. 1_2014MBL_MicDiv",2
+"Maribacter sp. HTCC2170",2
+"Maribacter sp. MAR_2009_60",2
+"Maribacter sp. MJ134",2
+"Marivirga tractuosa DSM 4126",2
+"Marixanthomonas sp. SCSIO 43207",2
+"Mesoflavibacter sp. HG37",2
+"Mesoflavibacter sp. HG96",2
+"Mesoflavibacter sp. SCSIO 43206",2
+"Mucilaginibacter sp. PAMC 26640",2
+"Muricauda ruestringensis DSM 13258",0
+"Muricauda sp. SCSIO 64092",2
+"Muricauda sp. SCSIO 65647",2
+"Myroides sp. A21",2
+"Myroides sp. ZB35",2
+"Niabella soli DSM 19437",2
+"Nonlabens dokdonensis DSW-6",2
+"Nonlabens marinus S1-08",2
+"Nonlabens sp. Ci31",2
+"Nonlabens sp. Hel1_33_55",2
+"Nonlabens sp. MB-3u-79",2
+"Nonlabens sp. MIC269",2
+"Oceanihabitans sp. IOP_32",2
+"Odoribacter splanchnicus DSM 20712",2
+"Olleya sp. Bg11-27",2
+"Olleya sp. HaHaR_3_96",2
+"Owenweeksia hongkongensis DSM 17368",0
+"Parabacteroides distasonis ATCC 8503",2
+"Parabacteroides distasonis CL03T12C09",2
+"Parabacteroides sp. CT06",2
+"Pedobacter sp. HDW13",2
+"Pedobacter sp. PACM 27299",2
+"Pedobacter sp. PAMC26386",2
+"Pedobacter sp. Q8-18",2
+"Petrimonas sp. IBARAKI",2
+"Phocaeicola dorei",2
+"Phocaeicola dorei CL03T12C01",2
+"Phocaeicola dorei DSM 17855",2
+"Phocaeicola vulgatus",2
+"Phocaeicola vulgatus ATCC 8482",2
+"Polaribacter sp. AHE13PA",2
+"Polaribacter sp. ALD11",2
+"Polaribacter sp. BM10",2
+"Polaribacter sp. HaHaR_3_91",2
+"Polaribacter sp. Hel1_33_78",1
+"Polaribacter sp. L12M9",2
+"Polaribacter sp. MED152",2
+"Polaribacter sp. R2A056_3_33",2
+"Polaribacter sp. SA4-10",2
+"Polaribacter sp. SA4-12",2
+"Polaribacter sp. SM13",2
+"Porphyromonas asaccharolytica DSM 20707",2
+"Porphyromonas gingivalis",2
+"Porphyromonas gingivalis 381",2
+"Porphyromonas gingivalis A7436",2
+"Porphyromonas gingivalis A7A1-28",2
+"Porphyromonas gingivalis AJW4",2
+"Porphyromonas gingivalis ATCC 33277",2
+"Porphyromonas gingivalis TDC60",2
+"Porphyromonas gingivalis W83",2
+"Prevotella dentalis DSM 3688",2
+"Prevotella histicola F0411",2
+"Prevotella melaninogenica ATCC 25845",2
+"Prevotella sp. E13-17",2
+"Prevotella sp. E9-3",2
+"Prevotella sp. oral taxon 299 str. F0039",2
+"Prevotella sp. Rep29",2
+"Prevotella veroralis F0319",2
+"Prolixibacteraceae bacterium DS1-an-2312",2
+"Proteiniphilum saccharofermentans",2
+"Proteiniphilum sp. JNU-WLY501",2
+"Psychroflexus sp. ALD_RP9",2
+"Psychroflexus torquis ATCC 700755",2
+"Psychroserpens sp. NJDZ02",2
+"Robiginitalea biformata HTCC2501",0
+"Sabulilitoribacter sp. BrNp1-15",2
+"Saprospira grandis str. Lewin",2
+"Sediminicola sp. YIK13",2
+"Seonamhaeicola sp. S2-3",2
+"Siansivirga zeaxanthinifaciens CC-SAMT-1",2
+"Solitalea canadensis DSM 3403",0
+"Solitalea sp. S2-8",2
+"Sphingobacteriaceae bacterium GW460-11-11-14-LB5",2
+"Sphingobacterium sp. CZ-2",2
+"Sphingobacterium sp. dk4302",2
+"Sphingobacterium sp. ML3W",2
+"Sphingobacterium sp. SRCM116780",2
+"Tamlana sp. s12",2
+"Tannerella forsythia 3313",2
+"Tannerella forsythia 92A2",2
+"Tannerella forsythia KS16",2
+"Tenacibaculum maritimum",2
+"Tenacibaculum sp. AHE14PA",2
+"Tenacibaculum sp. AHE15PA",2
+"Tenacibaculum sp. SZ-18",2
+"uncultured Bacteroidetes bacterium",2
+"uncultured Flavobacteriia bacterium",2
+"uncultured Muribaculaceae bacterium",2
+"uncultured Prevotella sp.",2
+"uncultured Sphingobacteriales bacterium HF0130_33B19",2
+"Winogradskyella sp. J14-2",2
+"Winogradskyella sp. PC-19",2
+"Winogradskyella sp. PG-2",2
+"Winogradskyella sp. RHA_55",2
+"Bacteroidetes bacterium AC2a",2
+"Cellulophaga sp. QY3",2
+"Chryseobacterium sp. 6424",2
+"Chryseobacterium sp. FDAARGOS 1104",2
+"Chryseobacterium sp. HT1",2
+"Elizabethkingia sp. M8",2
+"Flavobacterium sp. AUG42",2
+"Kaistella sp. 97-N-M2",2
+"Niabella aurantiaca",2
+"Niabella aurantiaca DSM 17617",2
+"Prevotella denticola F0289",2
+"Prevotella sp. Sc00026",2
+"Prevotella sp. Sc00028",2
+"Prevotella sp. Sc00033",2
+"Prevotella sp. Sc00044",2
+"Prevotella sp. Sc00066",2
+"Bacteroides uniformis ATCC 8492",2
+"Elizabethkingia sp. JS20170427COW",2
+"Flavobacteriaceae bacterium CRH",2
+"Flavobacterium denitrificans",2
+"Flavobacterium sp. 9",2
+"Flavobacterium sp. ABG",2
+"Flavobacterium sp. ACN2",2
+"Flavobacterium sp. F52",2
+"Flavobacterium sp. fv08",2
+"Flavobacterium sp. Leaf82",2
+"Flavobacterium sp. MEB061",2
+"Flavobacterium sp. ov086",2
+"Flavobacterium sp. Root186",2
+"Flavobacterium sp. Root420",2
+"Flavobacterium sp. Root901",2
+"Flavobacterium sp. Root935",2
+"Flavobacterium sp. VMW",2
+"Cellulophaga omnivescoria",2
+"Flammeovirga sp. OC4",2
+"Microscilla sp. PRE1",2
+"Phocaeicola plebeius",2
+"Phocaeicola plebeius DSM 17135",2
+"Wenyingzhuangia sp. OF219",2
+"Bacteroides stercoris",2
+"Bacteroides stercoris ATCC 43183",2
+"Bacteroides clarus",2
+"Flavobacterium sp. UMI-01",2
+"uncultured Sunxiuqinia sp.",2
+"Flavobacteriaceae bacterium 3519-10",2
+"Chryseobacterium sp. F4",2
+"Chryseobacterium sp. NEB161",2
+"Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2",2
+"Riemerella anatipestifer CH3",2
+"Riemerella anatipestifer RA-CH-1",2
+"Bacteroides sp. XB12B",2
+"Chryseobacterium sp. cx-624",2
+"Chryseobacterium sp. SC2-2",2
+"uncultured Bacteroides sp.",2
+"uncultured Zunongwangia sp.",2
+"Apibacter sp. B2966",2
+"Apibacter sp. B3706",2
+"Apibacter sp. ESL0404",2
+"Apibacter sp. ESL0432",2
+"Chryseobacterium sp. POL2",2
+"Porphyromonas gingivalis SJD2",2
+"Porphyromonas gingivalis SJD5",2
+"Riemerella anatipestifer ATCC 11845 = DSM 15868",2
+"Riemerella anatipestifer RA-CH-2",2
+"Riemerella anatipestifer RA-GD",2
+"Riemerella anatipestifer RA-YM",2
+"Riemerella anatipestifer Yb2",2
+"uncultured Bacteroides sp. SMG1",2
+"uncultured Bacteroides sp. SMG6",2
+"uncultured Sphingobacteriia bacterium",2
+"Weeksella virosa DSM 16922",2
+"Bacteroides fragilis HMW 615",2
+"Bacteroides sp. 1_1_14",2
+"Blattabacterium sp. (Aeluropoda insignis)",2
+"Blattabacterium sp. (Allacta sp.)",2
+"Blattabacterium sp. (Amazonina sp.)",2
+"Blattabacterium sp. (Anallacta methanoides)",2
+"Blattabacterium sp. (Anaplecta omei)",2
+"Blattabacterium sp. (Anaplecta sp.)",2
+"Blattabacterium sp. (Balta sp.)",2
+"Blattabacterium sp. (Beybienkoa kurandanensis)",2
+"Blattabacterium sp. (Blaptica dubia)",2
+"Blattabacterium sp. (Carbrunneria paramaxi)",2
+"Blattabacterium sp. (Chorisoserrata sp.)",2
+"Blattabacterium sp. (Cosmozosteria sp.)",2
+"Blattabacterium sp. (Cryptocercus hirtus)",2
+"Blattabacterium sp. (Ectobius sp.)",2
+"Blattabacterium sp. (Ectoneura hanitschi)",2
+"Blattabacterium sp. (Elliptorhina davidi)",2
+"Blattabacterium sp. (Epilampra maya)",2
+"Blattabacterium sp. (Eublaberus distanti)",2
+"Blattabacterium sp. (Euphyllodromia sp.)",2
+"Blattabacterium sp. (Eupolyphaga sinensis)",2
+"Blattabacterium sp. (Eurycotis decipiens)",2
+"Blattabacterium sp. (Galiblatta cribrosa)",2
+"Blattabacterium sp. (Gromphadorhina grandidieri)",2
+"Blattabacterium sp. (Gyna capucina)",2
+"Blattabacterium sp. (Ischnoptera deropeltiformi)",2
+"Blattabacterium sp. (Lamproblatta sp.)",2
+"Blattabacterium sp. (Laxta sp.)",2
+"Blattabacterium sp. (Macropanesthia rhinoceros)",2
+"Blattabacterium sp. (Megaloblatta sp.)",2
+"Blattabacterium sp. (Melanozosteria sp.)",2
+"Blattabacterium sp. (Methana sp.)",2
+"Blattabacterium sp. (Neolaxta mackerrasae)",2
+"Blattabacterium sp. (Opisthoplatia sp.)",2
+"Blattabacterium sp. (Panchlora nivea)",2
+"Blattabacterium sp. (Panesthia sp.)",2
+"Blattabacterium sp. (Paranauphoeta circumdata)",2
+"Blattabacterium sp. (Paratemnopteryx couloniana)",2
+"Blattabacterium sp. (Parcoblatta virginica)",2
+"Blattabacterium sp. (Phyllodromica sp.)",2
+"Blattabacterium sp. (Platyzosteria sp.)",2
+"Blattabacterium sp. (Protagonista lugubris)",2
+"Blattabacterium sp. (Pycnoscelus femapterus)",2
+"Blattabacterium sp. (Rhabdoblatta sp.)",2
+"Blattabacterium sp. (Shelfordella lateralis)",2
+"Blattabacterium sp. (Therea regularis)",2
+"Blattabacterium sp. (Tryonicus sp.)",2
+"Flavobacterium psychrophilum CSF 259-93",2
+"Bacteroidia bacterium",2
+"Flexithrix dorotheae",2
+"Flavobacterium sp. 2",2
+"Sphingobacterium multivorum",2
+"Sphingobacterium sp. 62",2
+"Bacteroides finegoldii DSM 17565",2
+"Bacteroides salyersiae CL02T12C01",2
+"Algoriphagus machipongonensis",2
+"Flavobacteria bacterium BBFL7",2
+"Flavobacteriales bacterium",2
+"Flavobacteriales bacterium ALC-1",2
+"Gillisia limnaea DSM 15749",2
+"Joostella marina DSM 19592",2
+"Kordia algicida OT-1",0
+"Leeuwenhoekiella blandensis MED217",2
+"Microscilla marina ATCC 23134",2
+"Polaribacter irgensii 23-P",2
+"Polaribacter sp. KT 15",2
+"unidentified eubacterium SCB49",2
+"Bacteroidales bacterium 6E",2
+"Bacteroides fragilis 3_1_12",2
+"Bacteroides sp. 2_1_22",2
+"Bacteroides sp. 2_1_33B",2
+"Bacteroides sp. 2_2_4",2
+"Bacteroides sp. 3_1_19",2
+"Bacteroides sp. 3_1_33FAA",2
+"Bacteroides sp. D20",2
+"Bacteroides sp. D22",2
+"Parabacteroides sp. 20_3",2
+"Parabacteroides sp. D13",2
+"Saccharicrinis fermentans DSM 9555 = JCM 21142",0
+"Pontibacter sp. HJ8",2
+"Prevotella salivae DSM 15606",2
+"Sphingobacterium sp. V-54",2
+"Bacteroides ovatus CL02T12C04",2
+"Bacteroides uniformis str. 3978 T3 i",2
+"Phocaeicola dorei 5_1_36/D4",2
+"Bacteroides eggerthii 1_2_48FAA",2
+"Cyclobacteriaceae bacterium",2
+"uncultured Alistipes sp.",2
+"uncultured Cytophaga sp.",2
+"uncultured Spirosoma sp.",2
+"Aquimarina agarilytica ZC1",2
+"Flammeovirga sp. SJP92",2
+"Flavobacterium sp. 4221",2
+"Pedobacter sp. 4236",2
+"Prevotella loescheii DSM 19665 = JCM 12249 = ATCC 15930",2
+"Persicobacter sp. CCB-QB2",2
+"Prevotella copri",2
+"Sphingobacterium sp. HP455",2
+"Porphyromonas gingivalis W50",2
+"uncultured Polaribacter sp.",2
+"Rhodothermus profundi",2
+"Parabacteroides gordonii MS-1 = DSM 23371",2
+"Prevotella sp. RS2",2
+"uncultured Flavobacteriales bacterium",2
+"Fibrisoma limi BUZ 3",2
+"Sphingobacterium sp. GN25",2
+"Prevotella loescheii ATCC 15930",2
+"Bacteroides sp. 4_3_47FAA",2
+"Bacteroides sp. 9_1_42FAA",2
+"Cytophaga sp.",2
+"Flavobacterium sp. 92",2
+"Saprospiraceae bacterium",2
+"uncultured Bacteroidales bacterium",2
+"uncultured Flavobacteriaceae bacterium",2
+"Prevotella copri DSM 18205",2
+"Arenitalea lutea",2
+"Echinicola pacifica",2
+"Echinicola pacifica DSM 19836",0
+"Flexithrix dorotheae DSM 6795",0
+"Maribacter forsetii DSM 18668",2
+"Alkaliflexus imshenetskii",2
+"Bacteroides sp. 3_1_23",2
+"Mucilaginibacter paludis DSM 18603",0
+"Prevotella oris C735",2
+"Cellulophaga sp. An8",2
+"Cellulophaga sp. KL-A",2
+"Flavobacterium sp. YS-80-122",2
+"Bacteroides clarus YIT 12056",2
+"Flavobacterium sp. TN17",2
+"uncultured Dysgonomonas sp.",2
+"Elizabethkingia meningoseptica",2
+"Elizabethkingia meningoseptica ATCC 13253",2
+"Aquimarina sp. SCSIO21287",2
+"Bacteroidetes bacterium",2
+"Flavobacterium sp. 4214",2
+"Parabacteroides merdae ATCC 43184",2
+"uncultured Flavobacterium sp.",2
+"uncultured Flexithrix sp.",2
+"uncultured Formosa sp.",2
+"uncultured Mucilaginibacter sp.",2
+"uncultured Sphingobacterium sp.",2
+"Algoriphagus lacus",2
+"Winogradskyella sp. KYW1333",2
+"Bacteroides sp. CAG:189",2
+"uncultured Dokdonia sp.",2
+"Candidatus Uzinura diaspidicola str. ASNER",2
+"uncultured Sphingobacteriales bacterium",2
+"Flavobacterium sp. RBE3",2
+"uncultured Bacteroidaceae bacterium",2
+"Aquimarina sp. Aq107",2
+"Aquimarina sp. Aq135",2
+"Aquimarina sp. Aq349",2
+"Aquimarina sp. Aq78",2
+"Flavobacterium sp. SK1022",2
+"Sphingobacterium sp. HMA12",2
+"Parabacteroides johnsonii CL02T12C29",2
+"Tenacibaculum maritimum NCIMB 2154",0
+"Flavobacteriaceae bacterium D9",2
+"Mucilaginibacter sp. QM49",2
+"Sphingobacterium sp. HWLB1",2
+"uncultured Cytophagia bacterium",2
+"Bacteroides faecis CAG:32",2
+"Bacteroides sp. 1_1_30",2
+"Bacteroides thetaiotaomicron CAG:40",2
+"Bacteroides thetaiotaomicron dnLKV9",2
+"Bacteroides xylanisolvens SD CC 1b",2
+"Flavobacterium sp. S20",2
+"Nonlabens ulvanivorans",2
+"Dysgonomonas gadei ATCC BAA-286",2
+"Breznakibacter xylanolyticus",2
+"Pedobacter sp. ALS-14",2
+"Formosa haliotis",2
+"Mariniflexile fucanivorans",2
+"Ochrovirga pacifica",2
+"Flavobacteriaceae bacterium",2
+"Flavobacteriaceae bacterium RR4-40",2
+"Flavobacterium sp. SLB02",2
+"Mucinivorans hirudinis",2
+"Petrimonas mucosa",2
+"Croceitalea dokdonensis DOKDO 023",2
+"Bacteroides fluxus YIT 12057",2
+"Bacteroides stercoris CC31F",2
+"Pedobacter arcticus",2
+"Hymenobacter sp. BT18",2
+"Bacteroidetes bacterium GWB2_41_8",2
+"Cyclobacterium qasimii M12-11B",2
+"Flavobacterium sp. LW53",2
+"Flavobacterium sp. MSY2",2
+"uncultured Chryseobacterium sp.",2
+"Aquimarina latercula",2
+"Sphingobacterium spiritivorum ATCC 33300",2
