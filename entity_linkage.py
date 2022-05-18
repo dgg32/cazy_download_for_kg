@@ -48,11 +48,11 @@ def name_disambiguation(name):
             pass
         else:
             content = efecth("mesh", ids[0])
-            cache[name.lower()] = content
+            cache[name.lower()] = content.lower()
         with open(local_cache_file, "a", newline='') as csvfile:
             writer = csv.writer(csvfile, delimiter='\t')
-            writer.writerow([name.lower(), content])
-        return content
+            writer.writerow([name.lower(), content.lower()])
+        return content.lower()
 
 
 if __name__ == "__main__":
