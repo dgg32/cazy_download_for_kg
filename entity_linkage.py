@@ -17,7 +17,10 @@ def esearch(db, term):
     content = json.loads(requests.get(url).content.decode('iso8859-1'))
 
     #print (url)
-    return content["esearchresult"]["idlist"]
+    if "idlist" in content["esearchresult"]:
+        return content["esearchresult"]["idlist"]
+    else:
+        return []
 
 def efecth(db, id):
     url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db={db}&id={id}"
