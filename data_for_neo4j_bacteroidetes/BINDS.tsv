@@ -47,7 +47,7 @@ CBM24	alpha-1,3-glucan	BINDS	CAZy	1
 CBM25	starch	BINDS	CAZy	1
 CBM26	starch	BINDS	CAZy	1
 CBM27	mannans	BINDS	CAZy	1
-CBM28	non-crystalline cellulose	BINDS	CAZy	1
+CBM28	cellulose	BINDS	CAZy	1
 CBM28	cellooligosaccharides	BINDS	CAZy	1
 CBM28	beta-1,3-1,4-glucan	BINDS	CAZy	1
 CBM29	mannans	BINDS	CAZy	1
@@ -84,7 +84,7 @@ CBM50	peptidoglycan	BINDS	CAZy	1
 CBM51	galactose	BINDS	CAZy	1
 CBM52	beta-1,3-glucan	BINDS	CAZy	1
 CBM53	starch	BINDS	CAZy	1
-CBM54	xylan	BINDS	CAZy	1
+CBM54	xylans	BINDS	CAZy	1
 CBM54	chitin	BINDS	CAZy	1
 CBM55	chitin	BINDS	CAZy	1
 CBM56	beta-1,3-glucan	BINDS	CAZy	1
@@ -106,9 +106,9 @@ CBM67	l-rhamnose	BINDS	CAZy	1
 CBM68	maltotriose	BINDS	CAZy	1
 CBM68	maltotetraose	BINDS	CAZy	1
 CBM70	hyaluronic acid	BINDS	CAZy	1
-CBM71	n-acetyl-lactosamine	BINDS	CAZy	1
+CBM71	4-sulfated n-acetyl-lactosamine	BINDS	CAZy	1
 CBM72	cellulose	BINDS	CAZy	1
-CBM72	xylan	BINDS	CAZy	1
+CBM72	xylans	BINDS	CAZy	1
 CBM73	chitin	BINDS	CAZy	1
 CBM74	amylose	BINDS	CAZy	1
 CBM75	xyloglucan	BINDS	CAZy	1
@@ -125,7 +125,7 @@ CBM80	galactomannan	BINDS	CAZy	1
 CBM81	xyloglucan	BINDS	CAZy	1
 CBM82	starch	BINDS	CAZy	1
 CBM83	starch	BINDS	CAZy	1
-CBM84	xanthan	BINDS	CAZy	1
+CBM84	xanthan gum	BINDS	CAZy	1
 CBM87	galactosaminogalactan	BINDS	CAZy	1
 CBM88	galactose	BINDS	CAZy	1
 CBM90	ulvan	BINDS	CAZy	1

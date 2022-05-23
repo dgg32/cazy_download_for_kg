@@ -40,4 +40,4 @@ with open("./data_for_neo4j_bacteroidetes/polysaccharide_is_a.tsv", 'w') as f:
     f.write(relation)
 
 with open(sugar_file, 'w') as f:
-    f.write("substrate\n" + "\n".join(list(sugar_set)))
+    f.write("name\n" + "\n".join(list(sugar_set)))
