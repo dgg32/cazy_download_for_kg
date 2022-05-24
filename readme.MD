@@ -3,7 +3,7 @@
 # Introduction
   
 
-This repository contains code and data for my article "[Construct a Knowledge Graph on the Neo4j Cloud](https://towardsdatascience.com/neo4j-for-diseases-959dffb5b479)".
+This repository contains code and data for my article "[Construct a Knowledge Graph on the Neo4j Cloud](https://medium.com/p/f8094e7bdbec)".
 
 1. The scripts are for data processing.
 
