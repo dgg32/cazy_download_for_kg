@@ -156,10 +156,17 @@ for i in range(1):
 
 rx_ec = re.compile(r'<a href="http://www.enzyme-database.org/query.php\?ec=(\S+?)">\S+</a></th><td class="ec">\s+(.+?)</table>')
 rx_ec_family = re.compile(r'<a href=(\w+)\.html id="separ">\w+</a>')
+
+### The cazy website has forgotten to put these five subfamilies into their overview page.
+for subfamily in ['PL21_1', 'PL33_1', 'PL33_2', 'PL36_1', 'PL36_2']:
+    in_queue.put(f"{prefix}{subfamily}.html")
+
 for family in fivefamilies:
     address = prefix + family
     
     page = requests.get(address, verify=False).content.decode('iso8859-1')
+
+    #print (address)
     
     for ec in rx_ec.findall(page):
         for fa in rx_ec_family.findall(ec[1]):
@@ -173,11 +180,12 @@ for family in fivefamilies:
     ###go into each family
     for family in families:
         in_queue.put(family)
-
+        #pass
     subfamilies = rx_subfamily.findall(page)
 
     for subfamily in subfamilies:
         in_queue.put(f"{prefix}{subfamily}.html")
+        #print (subfamily)
 
 #in_queue.put("http://www.cazy.org/GH5_1.html")
 #print family_ec
