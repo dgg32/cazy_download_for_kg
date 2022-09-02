@@ -17,26 +17,26 @@ for line in open(cazy_download):
     name = fields[2].split("type strain:")[0].strip()
     #print (name)
     taxid = 0
-    container = {}
+    taxonomy_container = {}
 
     if name in cache:
-        container = cache[name]
+        taxonomy_container = cache[name]
         #taxid = container["taxid"]
     else:
         taxid = pyphy.getTaxidByName(name)[0]
-        container = {"taxonomy": {}}
+        taxonomy_container = {"taxonomy": {}}
         if str(taxid) != "-1":
-            container["taxonomy"]["taxid"] = taxid
+            taxonomy_container["taxonomy"]["taxid"] = taxid
             current_id = int(taxid)
             while current_id != 1 and current_id != -1:
                 current_id = int(pyphy.getParentByTaxid(current_id))
                 if pyphy.getRankByTaxid(current_id) in desired_ranks:
-                    container["taxonomy"][pyphy.getRankByTaxid(current_id)] = [pyphy.getNameByTaxid(current_id), current_id]
+                    taxonomy_container["taxonomy"][pyphy.getRankByTaxid(current_id)] = [pyphy.getNameByTaxid(current_id), current_id]
 
-        cache[name] = container
+        cache[name] = taxonomy_container
 
     if name not in genome_cazy:
-        genome_cazy[name] = {"name": name, "cazy": {}, "taxonomy": container["taxonomy"]}
+        genome_cazy[name] = {"name": name, "cazy": {}, "taxonomy": taxonomy_container}
     
     if cazy not in genome_cazy[name]["cazy"]:
         genome_cazy[name]["cazy"][cazy] = 0
