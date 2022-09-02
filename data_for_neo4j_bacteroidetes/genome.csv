@@ -4,6 +4,7 @@ name,cellulose
 "Polaribacter sp. KT25b",2
 "Winogradskyella sp. HaHa_3_26",2
 "Winogradskyella sp. PAMC22761",2
+"Alkaliflexus sp. Ai-910",2
 "Bacteroides cellulosilyticus DSM 14838",1
 "Bacteroides eggerthii DSM 20697",2
 "Bacteroides intestinalis DSM 17393",2
@@ -16,7 +17,6 @@ name,cellulose
 "Chryseobacterium sp. StRB126",2
 "Chryseobacterium sp. Y16C",2
 "Dysgonomonadaceae bacterium zrk40",2
-"Echinicola sp. SCS 3-6",2
 "Flavobacterium sp. CLA17",2
 "Paludibacter propionicigenes WB4",0
 "Prevotella bryantii B14",2
@@ -27,6 +27,7 @@ name,cellulose
 "Prevotella sp. E13-1",2
 "Prevotella sp. E13-3",2
 "Prevotella sp. E15-14",2
+"Prevotella sp. E15-22",2
 "Prevotella sp. E2-25",2
 "Prevotella sp. E2-28",2
 "Sphingobacterium sp. B29",2
@@ -38,6 +39,8 @@ name,cellulose
 "Chitinophaga sp. MD30",2
 "Chitinophaga sp. MD30B",2
 "Dyadobacter fermentans DSM 18053",0
+"Dyadobacter sp. CY22",2
+"Dyadobacter sp. CY399",2
 "Dyadobacter sp. LJ419",2
 "Fibrella aestuarina BUZ 2",2
 "Fibrella sp. ES10-3-2-2",2
@@ -92,13 +95,14 @@ name,cellulose
 "Cytophaga hutchinsonii ATCC 33406",2
 "Echinicola vietnamensis DSM 17526",0
 "Emticicia oligotrophica DSM 17448",2
+"Emticicia sp. 21SJ11W-3",2
 "Ferruginibacter sp. KIS38-8",2
-"Flavobacteriaceae bacterium 10Alg115",2
 "Flavobacterium johnsoniae",0
 "Flavobacterium johnsoniae UW101",0
 "Flavobacterium sp. F-70",2
 "Flavobacterium sp. KBS0721",2
 "Flavobacterium sp. MDT1-60",2
+"Flavobacterium sp. MMS21-Er5",2
 "Gramella sp. GC03-9",2
 "Hymenobacter sp. 5317J-9",2
 "Hymenobacter sp. 5414T-23",2
@@ -114,7 +118,6 @@ name,cellulose
 "Pedobacter heparinus DSM 2366",2
 "Pedobacter sp. D749",2
 "Pedobacter sp. SW-16",2
-"Polaribacter sp. G4M1",2
 "Polaribacter sp. Q13",2
 "Prevotella intermedia 17",2
 "Prevotella intermedia ATCC 25611 = DSM 20706",2
@@ -123,8 +126,8 @@ name,cellulose
 "Runella slithyformis DSM 19594",2
 "Runella sp. SP2",2
 "Salegentibacter sp. T436",2
-"Sinomicrobium sp. HD2P242",2
 "Sphingobacterium sp. DR205",2
+"Sphingobacterium sp. PCS056",2
 "Sphingobacterium sp. PM2-P1-29",2
 "Sphingobacterium sp. TN19",2
 "Sphingobacterium sp. UDSM-2020",2
@@ -143,7 +146,6 @@ name,cellulose
 "Aquimarina sp. BL5",2
 "Aquimarina sp. TRL1",2
 "Aquirufa sp. 9H-EGSE",2
-"Arachidicoccus sp. 5GH13-10",2
 "Bacteroidales bacterium CF",2
 "Bacteroides caccae",2
 "Bacteroides caccae ATCC 43185",2
@@ -157,14 +159,13 @@ name,cellulose
 "Bacteroides sp. A1C1",2
 "Bacteroides sp. CACC 737",2
 "Bacteroides sp. HF-162",2
-"Bacteroides sp. KGMB07931",2
-"Bacteroides sp. KGMB10229",2
 "Bacteroides sp. PHL 2737",2
 "Bacteroides sp. ZJ-18",2
 "Bacteroides uniformis CL03T12C37",2
 "Bacteroidetes bacterium UKL13-3",2
 "Barnesiella viscericola DSM 18177",2
 "Bernardetia litoralis DSM 6794",2
+"Bizionia sp. M204",2
 "Blattabacterium cuenoti BPAA",2
 "Blattabacterium cuenoti BPAY",2
 "Blattabacterium cuenoti STAT",2
@@ -190,7 +191,6 @@ name,cellulose
 "Chryseobacterium sp. ADR-1",2
 "Chryseobacterium sp. C-17",2
 "Chryseobacterium sp. D764",2
-"Chryseobacterium sp. DH-B6",2
 "Chryseobacterium sp. G0162",2
 "Chryseobacterium sp. G0186",2
 "Chryseobacterium sp. G0201",2
@@ -220,12 +220,8 @@ name,cellulose
 "Elizabethkingia sp. 2-6",2
 "Flagellimonas sp. CMM7",2
 "Flagellimonas sp. HMM57",2
-"Flavihumibacter sp. IMCC34837",2
-"Flavihumibacter sp. IMCC34838",2
 "Flavobacteriaceae bacterium AU392",2
-"Flavobacteriaceae bacterium GSB9",2
 "Flavobacteriaceae bacterium MAR_2010_188",2
-"Flavobacteriaceae bacterium MT3330",2
 "Flavobacterium branchiophilum FL-15",0
 "Flavobacterium columnare ATCC 49512",0
 "Flavobacterium indicum GPTSA100-9 = DSM 17447",2
@@ -233,6 +229,7 @@ name,cellulose
 "Flavobacterium psychrophilum FPG3",0
 "Flavobacterium psychrophilum JIP02/86",0
 "Flavobacterium sp. 140616W15",2
+"Flavobacterium sp. B183",2
 "Flavobacterium sp. CECT 9288",2
 "Flavobacterium sp. CHNK8",2
 "Flavobacterium sp. CS20",2
@@ -242,6 +239,8 @@ name,cellulose
 "Flavobacterium sp. GENT11",2
 "Flavobacterium sp. GENT5",2
 "Flavobacterium sp. HJ-32-4",2
+"Flavobacterium sp. IGB 4-14",2
+"Flavobacterium sp. K5-23",2
 "Flavobacterium sp. KK2020170",2
 "Flavobacterium sp. KSM-R2A25",2
 "Flavobacterium sp. KSM-R2A30",2
@@ -268,8 +267,10 @@ name,cellulose
 "Gramella sp. MT6",2
 "Hymenobacter sp. 5116S-27",2
 "Hymenobacter sp. 5116S-3",2
+"Hymenobacter sp. 5413J-13",2
 "Hymenobacter sp. 5420S-77",2
 "Hymenobacter sp. 5516J-16",2
+"Hymenobacter sp. 5516S-25",2
 "Hymenobacter sp. APR13",2
 "Hymenobacter sp. BRD128",2
 "Hymenobacter sp. BRD67",2
@@ -315,7 +316,6 @@ name,cellulose
 "Pedobacter sp. HDW13",2
 "Pedobacter sp. PACM 27299",2
 "Pedobacter sp. PAMC26386",2
-"Pedobacter sp. Q8-18",2
 "Petrimonas sp. IBARAKI",2
 "Phocaeicola dorei",2
 "Phocaeicola dorei CL03T12C01",2
@@ -327,12 +327,10 @@ name,cellulose
 "Polaribacter sp. BM10",2
 "Polaribacter sp. HaHaR_3_91",2
 "Polaribacter sp. Hel1_33_78",1
-"Polaribacter sp. L12M9",2
 "Polaribacter sp. MED152",2
 "Polaribacter sp. R2A056_3_33",2
 "Polaribacter sp. SA4-10",2
 "Polaribacter sp. SA4-12",2
-"Polaribacter sp. SM13",2
 "Porphyromonas asaccharolytica DSM 20707",2
 "Porphyromonas gingivalis",2
 "Porphyromonas gingivalis 381",2
@@ -341,6 +339,7 @@ name,cellulose
 "Porphyromonas gingivalis AJW4",2
 "Porphyromonas gingivalis ATCC 33277",2
 "Porphyromonas gingivalis TDC60",2
+"Porphyromonas gingivalis W50",2
 "Porphyromonas gingivalis W83",2
 "Prevotella dentalis DSM 3688",2
 "Prevotella histicola F0411",2
@@ -386,11 +385,14 @@ name,cellulose
 "Winogradskyella sp. PC-19",2
 "Winogradskyella sp. PG-2",2
 "Winogradskyella sp. RHA_55",2
+"Bacteroides fluxus YIT 12057",2
+"Bacteroides uniformis ATCC 8492",2
 "Bacteroidetes bacterium AC2a",2
 "Cellulophaga sp. QY3",2
 "Chryseobacterium sp. 6424",2
 "Chryseobacterium sp. FDAARGOS 1104",2
 "Chryseobacterium sp. HT1",2
+"Dysgonomonas gadei ATCC BAA-286",2
 "Elizabethkingia sp. M8",2
 "Flavobacterium sp. AUG42",2
 "Kaistella sp. 97-N-M2",2
@@ -402,7 +404,6 @@ name,cellulose
 "Prevotella sp. Sc00033",2
 "Prevotella sp. Sc00044",2
 "Prevotella sp. Sc00066",2
-"Bacteroides uniformis ATCC 8492",2
 "Elizabethkingia sp. JS20170427COW",2
 "Flavobacteriaceae bacterium CRH",2
 "Flavobacterium denitrificans",2
@@ -431,7 +432,6 @@ name,cellulose
 "Flavobacterium sp. UMI-01",2
 "uncultured Sunxiuqinia sp.",2
 "Flavobacteriaceae bacterium 3519-10",2
-"Chryseobacterium sp. F4",2
 "Chryseobacterium sp. NEB161",2
 "Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2",2
 "Riemerella anatipestifer CH3",2
@@ -458,6 +458,8 @@ name,cellulose
 "uncultured Sphingobacteriia bacterium",2
 "Weeksella virosa DSM 16922",2
 "Bacteroides fragilis HMW 615",2
+"Niabella sp. I65",2
+"Pedobacter sp. 4236",2
 "Bacteroides sp. 1_1_14",2
 "Blattabacterium sp. (Aeluropoda insignis)",2
 "Blattabacterium sp. (Allacta sp.)",2
@@ -551,14 +553,13 @@ name,cellulose
 "Aquimarina agarilytica ZC1",2
 "Flammeovirga sp. SJP92",2
 "Flavobacterium sp. 4221",2
-"Pedobacter sp. 4236",2
 "Prevotella loescheii DSM 19665 = JCM 12249 = ATCC 15930",2
 "Persicobacter sp. CCB-QB2",2
 "Prevotella copri",2
 "Sphingobacterium sp. HP455",2
-"Porphyromonas gingivalis W50",2
 "uncultured Polaribacter sp.",2
 "Rhodothermus profundi",2
+"Prevotella copri DSM 18205",2
 "Parabacteroides gordonii MS-1 = DSM 23371",2
 "Prevotella sp. RS2",2
 "uncultured Flavobacteriales bacterium",2
@@ -572,20 +573,23 @@ name,cellulose
 "Saprospiraceae bacterium",2
 "uncultured Bacteroidales bacterium",2
 "uncultured Flavobacteriaceae bacterium",2
-"Prevotella copri DSM 18205",2
 "Arenitalea lutea",2
+"Tenacibaculum jejuense",2
 "Echinicola pacifica",2
 "Echinicola pacifica DSM 19836",0
 "Flexithrix dorotheae DSM 6795",0
+"Maribacter forsetii",2
 "Maribacter forsetii DSM 18668",2
+"uncultured Phocaeicola sp.",2
 "Alkaliflexus imshenetskii",2
+"Bacteroides clarus YIT 12056",2
 "Bacteroides sp. 3_1_23",2
+"Bacteroides stercoris CC31F",2
 "Mucilaginibacter paludis DSM 18603",0
 "Prevotella oris C735",2
 "Cellulophaga sp. An8",2
 "Cellulophaga sp. KL-A",2
 "Flavobacterium sp. YS-80-122",2
-"Bacteroides clarus YIT 12056",2
 "Flavobacterium sp. TN17",2
 "uncultured Dysgonomonas sp.",2
 "Elizabethkingia meningoseptica",2
@@ -626,8 +630,11 @@ name,cellulose
 "Bacteroides xylanisolvens SD CC 1b",2
 "Flavobacterium sp. S20",2
 "Nonlabens ulvanivorans",2
-"Dysgonomonas gadei ATCC BAA-286",2
 "Breznakibacter xylanolyticus",2
+"Sphingobacterium sp. E70",2
+"uncultured Chitinophaga sp.",2
+"uncultured Gramella sp.",2
+"uncultured Leadbetterella sp.",2
 "Pedobacter sp. ALS-14",2
 "Formosa haliotis",2
 "Mariniflexile fucanivorans",2
@@ -638,8 +645,6 @@ name,cellulose
 "Mucinivorans hirudinis",2
 "Petrimonas mucosa",2
 "Croceitalea dokdonensis DOKDO 023",2
-"Bacteroides fluxus YIT 12057",2
-"Bacteroides stercoris CC31F",2
 "Pedobacter arcticus",2
 "Hymenobacter sp. BT18",2
 "Bacteroidetes bacterium GWB2_41_8",2

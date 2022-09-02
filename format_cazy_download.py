@@ -14,7 +14,8 @@ for line in open(cazy_download):
     line = line.strip()
     fields = line.split("\t")
     cazy = fields[0]
-    name = fields[2]
+    name = fields[2].split("type strain:")[0].strip()
+    #print (name)
     taxid = 0
     container = {}
 
