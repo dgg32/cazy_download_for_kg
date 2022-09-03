@@ -18,7 +18,7 @@ rx_cazypedia = re.compile(r'(http://www\.cazypedia\.org/index\.php/\w+)')
 rx_prosite = re.compile(r'(http://prosite\.expasy\.org/\w+)')
 re_taxon = re.compile(r'html">(\w+)</a> &#40;(\d+)&#41;</span>')
 rx_subfamily = re.compile(r'<a id="separ_subfam" href="(\w+).html">')
-rx_activity = re.compile(r'<tr><th class="thsum" valign="top" align="left"> Activities in.+?<td class="tdsum">(.*?)<\/td><\/tr>')
+rx_activity = re.compile(r'<tr><th class="thsum" valign="top" align="left"> Activities in Family</th><td class="tdsum">(.*?)<\/td><\/tr>')
 
 family_ec = {}
 
@@ -186,7 +186,8 @@ for family in fivefamilies:
     for subfamily in subfamilies:
         in_queue.put(f"{prefix}{subfamily}.html")
         #print (subfamily)
+        #pass
 
-#in_queue.put("http://www.cazy.org/GH5_1.html")
+#in_queue.put("http://www.cazy.org/GT4.html")
 #print family_ec
 in_queue.join()
